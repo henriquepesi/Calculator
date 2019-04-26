@@ -13,15 +13,15 @@ const styles = StyleSheet.create({
         height: Dimensions.get('window').width /4,
         width: Dimensions.get('window').width /4,
         padding: 20,
-        backgroundColor: '#f0f0f0',
+        backgroundColor: '#fff',
         textAlign: 'center',
-        borderWidth: 1,
-        borderColor: '#888',
+        // borderWidth: 1,
+        borderColor: '#f1f1f1',
     },
 
     operationButton: {
         color: '#fff',
-        backgroundColor: '#fa8231',
+        backgroundColor: '#80defc',
     },
 
     buttonDouble: {
